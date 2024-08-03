@@ -47,7 +47,7 @@ The `<Home>` component should return the following JSX elements:
   - use JSX expression syntax to use the imported `name` and `city` variables
     inside your JSX elements
 
-**Hint**: consult the [React documentation the `style` property][style] to see
+**Hint**: consult the [React documentation on the `style` property][style] to see
 how to set the color correctly.
 
 ### About
