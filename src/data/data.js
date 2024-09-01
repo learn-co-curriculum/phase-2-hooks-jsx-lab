@@ -4,4 +4,6 @@ const city = "New York";
 
 const image = "https://i.imgur.com/mV8PQxj.gif";
 
+export default { name, city, image };
+
 export { name, city, image };
